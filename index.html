@@ -1573,39 +1573,6 @@ function openSub(deptKey) {
 }
 
 /* open folder path in OneDrive (CLOUD ONLY) */
-function openFolder(deptKey, folderKey) {
-
-    if (!currentCompanyCode) {
-        alert("Please select an entity first.");
-        return;
-    }
-
-    const entity = currentCompanyCode; // "UAE" or "PK"
-
-    let link = null;
-    try {
-        if (CLOUD_LINKS[entity] &&
-            CLOUD_LINKS[entity][deptKey] &&
-            CLOUD_LINKS[entity][deptKey][folderKey]) {
-            link = CLOUD_LINKS[entity][deptKey][folderKey];
-        }
-    } catch (e) {
-        console.warn("CLOUD_LINKS lookup error:", e);
-    }
-
-    // If no specific link configured → open entity root as fallback
-    if (!link) {
-        console.warn("No specific cloud link for", entity, deptKey, folderKey, "– opening entity root.");
-        link = ENTITY_ROOT[entity];
-    }
-
-    if (!link) {
-        alert("No OneDrive link configured for this entity yet.");
-        return;
-    }
-
-    window.open(link, "_blank");
-}
 
 /* ====== SEARCH SYSTEM ====== */
 function handleSearch(query) {

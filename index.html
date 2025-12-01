@@ -938,6 +938,10 @@ let currentCompanyCode = "UAE";  // "UAE" or "PK"
 let currentCompanyLabel = "Agrotech UAE";
 let currentDeptKey = null;
 
+// Track which screen is currently visible
+// "login" | "companies" | "departments" | "sub"
+let currentScreen = "login";
+
 // JSON with OneDrive links (loaded from agrotech-links.json)
 let CLOUD_LINKS = null;
 
@@ -993,6 +997,11 @@ function handleLogin() {
     document.getElementById("btn-uae").classList.add("active");
     document.getElementById("btn-pk").classList.remove("active");
 
+    // We are now on the main "Select Entity" screen
+    currentScreen = "companies";
+    // Start our own history state so Back button is handled by the app
+    history.replaceState({ app: "agrotech", screen: "companies" }, "");
+
     goToMainMenu();
 }
 
@@ -1021,6 +1030,7 @@ function handleLogout() {
    MAIN MENU
    ============================ */
 function goToMainMenu() {
+    currentScreen = "companies";
     currentDeptKey = null;
     document.getElementById("searchBox").value = "";
 
@@ -1092,6 +1102,11 @@ function openDepartments(entityCode) {
 
     currentDeptKey = null;
     document.getElementById("searchBox").value = "";
+
+    currentScreen = "departments";
+    // push new state so browser Back can come here from sub-folders
+    history.pushState({ app: "agrotech", screen: "departments" }, "");
+
     showOnly("screen-departments");
 }
 
@@ -1143,6 +1158,10 @@ function openSub(deptKey) {
 
     const grid = document.getElementById("sub-" + deptKey);
     if (grid) grid.classList.remove("hidden");
+
+    currentScreen = "sub";
+    // push new state for sub-folder view
+    history.pushState({ app: "agrotech", screen: "sub" }, "");
 
     showOnly("screen-sub");
 }
@@ -1548,6 +1567,7 @@ function openDepartments(entityCode) {
 
 /* back to companies */
 function goBackToCompanies() {
+    currentScreen = "companies";
     currentDeptKey = null;
     document.getElementById("searchBox").value = "";
     changeMainLogo(null);
@@ -1559,6 +1579,7 @@ function goBackToDepartments() {
     document.querySelectorAll(".sub-grid").forEach(g => g.classList.add("hidden"));
     currentDeptKey = null;
     document.getElementById("searchBox").value = "";
+    currentScreen = "departments";
     showOnly("screen-departments");
 }
 

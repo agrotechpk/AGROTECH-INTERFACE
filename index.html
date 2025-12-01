@@ -553,25 +553,32 @@
             Secure access for Agrotech UAE &amp; Agrotech Pakistan.
         </div>
 
-        <div class="login-field">
-            <label for="login-username">Username</label>
-            <input type="text"
-                   id="login-username"
-                   autocomplete="off"
-                   autocapitalize="off"
-                   spellcheck="false"
-                   placeholder="">
-        </div>
+        <!-- FORM START -->
+        <form id="login-form" onsubmit="handleLogin(); return false;">
 
-        <div class="login-field">
-            <label for="login-password">Password</label>
-            <input type="password"
-                   id="login-password"
-                   autocomplete="off"
-                   placeholder="">
-        </div>
+            <div class="login-field">
+                <label for="login-username">Username</label>
+                <input type="text"
+                       id="login-username"
+                       autocomplete="off"
+                       autocapitalize="off"
+                       spellcheck="false"
+                       placeholder="">
+            </div>
 
-        <button class="login-btn" onclick="handleLogin()">Sign in</button>
+            <div class="login-field">
+                <label for="login-password">Password</label>
+                <input type="password"
+                       id="login-password"
+                       autocomplete="off"
+                       placeholder="">
+            </div>
+
+            <button type="submit" class="login-btn">Sign in</button>
+
+        </form>
+        <!-- FORM END -->
+
         <div class="login-error" id="login-error"></div>
     </div>
 </div>

@@ -911,6 +911,24 @@ const USERS = {
     "mushafaq": { password: "AT25UAE", displayName: "Mushafaq" },
     "shahab":   { password: "AT25UAE", displayName: "Shahab" }
 };
+// Allow pressing Enter to trigger login while login screen is visible
+document.addEventListener("keydown", function (e) {
+    if (e.key === "Enter") {
+        const loginScreen = document.getElementById("screen-login");
+        if (!loginScreen) return;
+
+        // Agar login overlay still visible hai
+        const isVisible =
+            loginScreen.style.display === "" ||
+            loginScreen.style.display === "flex" ||
+            loginScreen.style.display === "block";
+
+        if (isVisible) {
+            e.preventDefault();
+            handleLogin();   // same function as Sign in button
+        }
+    }
+});
 
 /* ============================
    GLOBAL STATE

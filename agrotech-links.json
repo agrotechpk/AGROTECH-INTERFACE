@@ -11,7 +11,6 @@
       "corporate_tax": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBQU-QUNjyaT7X5dJ3yQufrAYcVWYTM_nubfVLFlrtPwqA",
       "moa_aoa": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAAcbw5tIvmRa08XljUjlObAQsIub87S5IxbhAON34-lik"
     },
-
     "AssetsInventory": {
       "inventory": "https://1drv.ms/f/c/9b43ceb10aebca25/IgC-wV182mugRL2049NK0fwRAUXk4zCL2wT3hx6Pd-LMhuw",
       "vehicles": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAiGaZFXoLPTJViE_GlctuUAWijGYlCLw2XM6Hi-C-1_SY",
@@ -19,7 +18,6 @@
       "depreciation": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAhlhLa9mjXTa0EwJFN-D1bAeHp26EGo_FTuNRdUfY4sCs",
       "furniture": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBVYrW-MJ5eRLsl6DE6bK6rAbGoGAK6qC16X-uY6jao2sk"
     },
-
     "Intercompany": {
       "profit_repatriation": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDqkIs__cHeQZTieI4cLVwxAcEGutEmkwUV0suY_g_XyJ8",
       "loans": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDcKNFmgh1YRoEQR6q09JQGAYtQyaRskPe0JRFOW_M6ltg",
@@ -28,7 +26,6 @@
       "transfers_uae_to_pk": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCZtfRJXF7zQ7rwXQNq3sXMAS3fw_XMXIErqlPW0uajrkg",
       "transfer_pricing": "https://1drv.ms/f/c/9b43ceb10aebca25/IgD-fM52V9aFQ4AtkW4-IIU-AUzKkGD8uJzTmBnlZ2y89r8"
     },
-
     "Projects": {
       "budgets": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDMtcUPrgsBTqOZPORHVV3SAb3PRkRvgCkSmZSCG9SVsyM",
       "reports": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBPraxJ2ay9TZmeof47bStIAb-eExZl4mL4xt8zqx_6Zg0",
@@ -44,7 +41,6 @@
       "invoices": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCWeRbKlo4oR6pgj_VC8HXnAa4706mVDQw6P233RSRdV-Y",
       "drawings": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDJ2GMr_wjWTqfZB-oJQ3ppAQ4PrD-iepn6Q9yiAxSgyPM"
     },
-
     "RnD": {
       "samples": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAOnj0BHvlmQ4Qcy1fxAfofAcJmbjHoD4k5YOEhhLOz0PY",
       "reports": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAvP7SwxDzITb5y8OxSU9wcAddjhEiv-P8ODpBTuwIO1WE",
@@ -64,17 +60,15 @@
       "tickets": "https://1drv.ms/f/c/9b43ceb10aebca25/IgByDEup2fivS7D6MZmSmXosAUlEKw_CLKs92yMINokq0jU",
       "passwords": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDDV_N159hGR7Z9JlvzitLjAR8l9iAD5_qzXj9XUsrmUug",
       "hardware": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDzKb9UKXMrSI1adIMefK1IATD9uCK0RnbVkhTmpW6yFeU",
-      "CCTV": "https://1drv.ms/f/c/9b43ceb10aebca25/Ek2dAzhk73REsmiVacKKydIBgn43REjNQiYiTbe0mh26Hg",
+      "CCTV": "https://1drv.ms/f/c/9b43ceb10aebca25/Ek2dAzhk73REsmiVacKKydIBgn43REjNQiYiTbe0mh26Hg"
     },
-
     "Archive": {
       "old_contracts": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAoiBW9QghhQqDZuW0v3gfzAfuwr6AZGDTwu60FPfkwLDg",
-      "old_bank_statements": "https://1drv.ms/f/c/9b43ceb10aebca25/IgD7toaAh3jnTK_VpUrs_GWTAZfAmTDDFYYCp-If2unj2ok",
+      "old_bank_statements": "https://1drv.ms/f/c/9b43ceb10aebca25/IgD7toaAh3jnTK_VpUrs_GWTAfAmTDDFYYCp-If2unj2ok",
       "closed_projects": "https://1drv.ms/f/c/9b43ceb10aebca25/IgA3A0kFiD0mTLn0lxkoNK89Af5DUsic_e5bi9ZnJlm97FU",
       "former_employees": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCR4bUwrxx8Q7QLItVn2zTcAQ_BUbN4cC4mniJr0nvig3M",
       "previous_accounting": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBo3UeuNJp9R770enUKk3PGAYvjtfu_fND6O-fwWyy8TK4"
     },
-
     "ProductSourcing": {
       "Other_PK_local_suppliers": "https://1drv.ms/f/c/9b43ceb10aebca25/IgB69haOgJWoTYZhOERfTld7AX1S0jcuGDDJNFlDezuaJVA",
       "purchase_plan": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDbTKGqDhfVS7MH_tROQnB8ASGfi1xQGd2aOoVpygQqJ08",
@@ -101,7 +95,6 @@
       "supplier_performance": "https://1drv.ms/f/c/9b43ceb10aebca25/IgB6cuyuyKq9TYEUc61TCoT1AXSU1YJRuZSyrwxbzECU1nI",
       "China_samples": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCoBayO-ZAdSrSMwC0_2GCSAdgFl4J8tCCe07uidW0rL3Y"
     },
-
     "SalesMarketing": {
       "marketing": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCrF5STyXw9SpFShjJQjAP1ARExmFP_BAPQ0NadqOdwAI8",
       "campaigns": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAAxWMl6hniQLPxgh9PLqzAATu3ByInfzNbjwDbCR7Crfg",
@@ -112,7 +105,6 @@
       "profiles": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAYU_kIntQYTrNRXU4gE2C5Af09AE8TqvxgzMKEzkysOLI",
       "proposals": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBLrgLZLqFwQJzKHZWOXZHpAdre1mGtnDwrrkjXfUrXaOA"
     },
-
     "Operations": {
       "reports": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBLDIAz8nzhTayMSEIwQ7-rAdfTdNiCY_pDQzEp39cld0s",
       "SOPs": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBqp3-KfME4TYEjVskRV3BtAeaBo3XkdmHofnYYDRzOQT4",
@@ -132,7 +124,6 @@
       "office_rent": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBkLb-dBrKdSISbztqPIoDoAVKkJavTykdyUiliMvpBpgU",
       "office_inventory": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDFSCWG-nctRr-AJbNqLtjyATSvg7cBcJd2o9lPQ4sVICU"
     },
-
     "Procurement": {
       "policies": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCyx2gPX1d8Qr4NV9pIgH7ZAbgg3z30iryFGf3sP7ScYLg",
       "vendors": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCCKOm5i_hmQbgxFmGAqT3AAe3d8weDLYUCWryy_qkHCaU",
@@ -145,7 +136,6 @@
       "PO": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCGi2gVzIx_Rqn1usUB2Mm6AVD3wEza_Jmw2p4zc7arWxY",
       "challans": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCWQOpl8QXGS49AxNV8w3j_AWzryu11EiZ7EHn8AW_inPU"
     },
-
     "FinanceAccounting": {
       "reports_annual": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAV4yttoqBxTaGsFjwfch2sAWicsIhwyR9o3evKsWzPau8",
       "receivables_UAE_clients": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAxhbUBcNFVSK2UoGb4trD_ATtp1QCJZHRwSV7iCunWrss",
@@ -159,7 +149,7 @@
       "payables_PK_vendors": "https://1drv.ms/f/c/9b43ceb10aebca25/IgC-eLmYQsJdRKWbsfC7tTzGAXHWjaAd2JgwQ4_WGthX0Pc",
       "fixed_assets_register": "https://1drv.ms/f/c/9b43ceb10aebca25/IgADR_xWB11pTboR__49RiW6AfXU8pi7osjJ23f4Db0Nn90",
       "payroll_UAE": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCu6umBecQNSI7clco8Fku0AYvIrAjCaa_3zLX3cOglp4E",
-      "payroll_PK": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBKRpXwGSv8TbtW5h9jGkCMAc2sfvYOonIqC0O36hemnCs",
+      "payroll_PK": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBKRpXwGSv8TbtW5h9GkCMAc2sfvYOonIqC0O36hemnCs",
       "owners_equity_drawings": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCgbqnM1-0VR5VHaB19KLBdAXf6SZ7dF9aGjxldvuPkE4w",
       "petty_cash_PK": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAcj9VDjvrxQrCl3ORUBtUCAePiz93_oDzYjnqy1fsaHiM",
       "reports_quarterly": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCEbcRw-rOLSoJTMbbj56a-AaEGcym5pQMo6jy_wXa3SP4",
@@ -170,7 +160,6 @@
       "chart_of_accounts": "https://1drv.ms/f/c/9b43ceb10aebca25/IgD9GaeeN952Rau3bNn1w9tUAZ2wgKajNyb7zlmMPSjt-gE",
       "petty_cash_UAE": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCKy47rN4tyTZTmqUev53tdAQLWiaWNyVOVisMSb3NFT3A"
     },
-
     "HR": {
       "attendance": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDg5b98hzVYS7D6MSa6O9oPAY80ZVNlILcNp0j5id0XWxw",
       "disciplinary": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBSUYykuczxRp0y0L6lkVXmASLYOAUGp2k0b5LE7RXum8M",
@@ -182,7 +171,6 @@
       "policies": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDtbSbRXDDySqL6g53gYCrXAactCABtmaHSHh5H0mjcELI",
       "training": "https://1drv.ms/f/c/9b43ceb10aebca25/IgANeVHIVm0nTbzgIIAnzGCbAXAijqJJBiqJ7_h6axSxJF4"
     },
-
     "DirectorsOwnership": {
       "profit_distribution": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBF9FiGOiQlQJDrqCewsuuzAbfH2VRqVQpZ0nFDJcKVfdg",
       "business_plans": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDUmsyTtB_qRoFI7S1Qh6tPARtfIeVOPDhUxjnqdw_GzX4",
@@ -203,7 +191,6 @@
       "corporate_tax": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBWcMC-uQKFQ7kWy25LY0FtAe35LyKSpsT3-sMCINI67jM",
       "moa_aoa": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAspQkm0CJMRKE3c4C-YT7QAZc9cX45TlCVeiONZBBE1H8"
     },
-
     "AssetsInventory": {
       "inventory": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAAhsco9MCpRIOTYcPGetXCAV9reKG-hybWgWtxIWKxvnY",
       "vehicles": "https://1drv.ms/f/c/9b43ceb10aebca25/IgA8LnHXI8J1RrKE89gUsVxqAXy_mWi0omJvnDKEF1-Fulw",
@@ -211,7 +198,6 @@
       "depreciation": "https://1drv.ms/f/c/9b43ceb10aebca25/IgD-aOZoUfiCT6uu-EQnnYtKAQo-BTPStjTneTNZRgvwYwQ",
       "furniture": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBHZccmcsHLQrZhmG9lmql6AQGi2ASJXjgySS0kydF5HU4"
     },
-
     "Intercompany": {
       "profit_repatriation": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAu93bjOLJuT7YaHDxFuWxZATA_eLhL8b4QCcTQs179_NM",
       "loans": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAnU69cAUzsS6Q_aDT-7M82AZ9EOQWejyAzkkBBTprzuYY",
@@ -220,7 +206,6 @@
       "transfers_uae_to_pk": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDFbZXDltBNTrTadACDUCu2Acxd884Avhx3loZv0eWECO8",
       "transfer_pricing": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDcRt_ds4ZySZYYGFxLJ4nyAeKewYE-BRSd1vZtgShn31U"
     },
-
     "Projects": {
       "budgets": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCbJiok9vt7SK3zFAZqsEuVAXkYzwrfgtae8LqwvhDoslc",
       "reports": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBqBLQTKJYJQ6cr8QjYLSuNASiewM9_rIvHvJhAS1sX2S8",
@@ -232,7 +217,6 @@
       "invoices": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCD88ik9zflSIR4xbQCqrgdAUhZ13LlWaXcy4GALfndABU",
       "drawings": "https://1drv.ms/f/c/9b43ceb10aebca25/IgA9uXszfga_RLj3LmduXG8SAcCy0dzQEwZCjoPtV930wnY"
     },
-
     "RnD": {
       "samples": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAM2vnWQTq_QrSGFbHYkYWEAeX1ipJX2DKNLiTRVKO7jlI",
       "reports": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAkVV6WMe75Q5719QoiqUdXAZCgMxPhA45SDUJPvdv2JE4",
@@ -246,7 +230,6 @@
       "budget": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAAkTn05yZ4QqokQTQHgEkoAa6Y7HvLWeyv_4sR1SDMr9Y",
       "testing": "https://1drv.ms/f/c/9b43ceb10aebca25/IgB2LqORjnxYRbmC3ryGMHhmAdod0AEwFf4LV5CoSsWy_Ho"
     },
-
     "ITSystems": {
       "policies": "https://1drv.ms/f/c/9b43ceb10aebca25/IgC2kM7Zh1iYSZWFqMx4QPKWAfnb4sK0ePugla4TlFnXenU",
       "licenses": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDxURdaUUJjSpZ9oPZIcwiOAVfZ4STbvhE9xfQTrYCfui8",
@@ -254,7 +237,6 @@
       "passwords": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCMhY2XlBo-Q7guDotj04PFAbRyt-q0hEyzmxHoRAgt1Cs",
       "hardware": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBUWypR0PuZTLdOUxTlWjJ0AcJTIWHwck3ZPUMvOyHWf1s"
     },
-
     "Archive": {
       "old_contracts": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCy5mgPwWvxRrzVtTzV_R8yAeYcKk-HS4TlsZGHSksLIEM",
       "old_bank_statements": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBt5p9uq6D4Q6KrMiRFXCS9Ab8aR4R0FprwkE46jxC_A00",
@@ -262,7 +244,6 @@
       "former_employees": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDnZCh6jmvpTLaXCsfcBLbeAZ-U18neaICGFD4Is6E-4fM",
       "previous_accounting": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDpmnAOL4HDTYIc3_cFKKwRAcPe_7fSwn15Z_alr-n9Bnw"
     },
-
     "ProductSourcing": {
       "Other_PK_local_suppliers": "https://1drv.ms/f/c/9b43ceb10aebca25/IgACQE3nCmzwTq9UIBw4VCeQAVXH-AHel_LciN_fqBD7ULg",
       "purchase_plan": "https://1drv.ms/f/c/9b43ceb10aebca25/IgClB00JkfSCQ5h96bx7FCHOAcd0BHZIpTAKLS1sHKpsTaE",
@@ -288,7 +269,6 @@
       "supplier_performance": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBfqZ4UkMdnTbnICaR7N94cATdE0fi_tg02lNWo8lZIQZo",
       "USA_quotations": "https://1drv.ms/f/c/9b43ceb10aebca25/IgC2B_c1B9ffSK1ycn60TXtyAVxUlVi4CnEcAb0XP7XGixs"
     },
-
     "SalesMarketing": {
       "marketing": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAEiEuYulaeTZWQKzaNL9Q-AduH1w1QLGhpdibO6-6E_mc",
       "campaigns": "https://1drv.ms/f/c/9b43ceb10aebca25/IgB3d32yTX4BQ4YfAEG6oxjiAYbM_OGMwB2mNlTKEg2yF1U",
@@ -299,7 +279,6 @@
       "profiles": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDa1Z9waO1USbe7jMTx-t4TAbHGKvDEPr8PIc9q19Zpbxg",
       "proposals": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBrB0w3d0DmQIKbquMhElQwAYnyWlcZiOvAgiIiRwC0CN8"
     },
-
     "Operations": {
       "reports": "https://1drv.ms/f/c/9b43ceb10aebca25/IgByjwzIGnikTrrY5J96wmuUAZAH-8Jx4t1VXz6koqhaLcE",
       "SOPs": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBOdJ2leeqAQbwyo01Rb3hGAWCE7vi--SMfnO7dKoZSb5g",
@@ -309,7 +288,6 @@
       "equipment_logs": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDjV2_4T64WQKKxrpaIvaEkAUuM4QJEm4-MTYOGs-bFyOs",
       "workflows": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDrnMCPLykYQY0j_pv8HGszASWchBCHtsryU1VGGSf80uw"
     },
-
     "Administration": {
       "stamps_documents": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCRrbhDOVigR4Mxx8WlUbQLAVwKI2E5pBwgEWrt65CgqXg",
       "insurance": "https://1drv.ms/f/c/9b43ceb10aebca25/IgCQl5ghr5zXSLAIdvmYyaYFAXfvyDWfGUj6wbLtnMBBUHU",
@@ -320,7 +298,6 @@
       "office_rent": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAebonLYC9URKahhCZGaEGSAWbOm4bugN2HIKjxkE66BKk",
       "office_inventory": "https://1drv.ms/f/c/9b43ceb10aebca25/IgC_I5hRDDI4S4uBtLyOosaJARiJF28vHcZaxBEilH2jKFc"
     },
-
     "Procurement": {
       "policies": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBHKX6BVK-rQaVGqK4d--eqAdmN56xq4l0J57YdaxbFzdU",
       "vendors": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBLz6oMRhaAQadRWy1tNSnJAfF-b2TxYqHmRTSoIFJVwww",
@@ -333,7 +310,6 @@
       "PO": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDfTXBeZ06RTp8kmEjpFH8PAVE0SB91UZ32Rx4EV2iXksI",
       "challans": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAgQngJqatOQ4tIG80-upg4AXh-axXeZfn6daK-7xTT_zY"
     },
-
     "FinanceAccounting": {
       "reports_annual": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAtMkK4eliqR5QKPDV9xS1wAXYgBhCOxp61hQjkNBcO-Zk",
       "receivables_UAE_clients": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDoWBPkD4VJRLw1oCJRjOJfAfmVJGcgo-YO-nihz0yOJOE",
@@ -358,7 +334,6 @@
       "chart_of_accounts": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAmrrd_k742SqJxn4cWPUA9AZhuMXCGoqVUuWfWc5nXk0g",
       "petty_cash_UAE": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDSS4_66RN1QKiTwffNnAKfAWQSp5mgt7zvsQyZJ-w--2w"
     },
-
     "HR": {
       "attendance": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAPkdilT3w9TJnd0-HXqlPpAZjb-RLhFTynP4_Zd7UWamI",
       "disciplinary": "https://1drv.ms/f/c/9b43ceb10aebca25/IgDKwTPqjRA1SaC-ToA7iBNhAVOZ3iWE_rd5SBsdvtFuvhI",
@@ -370,7 +345,6 @@
       "policies": "https://1drv.ms/f/c/9b43ceb10aebca25/IgAYpR4l8sDcTKJw3GCswkHCAaUBgABpJrX439VUvp-YUu8",
       "training": "https://1drv.ms/f/c/9b43ceb10aebca25/IgBPHq1BBFgrSIlzdEJuoSzNAVqQueblhWZGyuUZJ9aoejI"
     },
-
     "DirectorsOwnership": {
       "profit_distribution": "https://1drv.ms/f/c/9b43ceb10aebca25/IgD1yzo15DX3RYIbwQB_tzWNActZ4NwRNcwMs-Mzd38BE8s",
       "business_plans": "https://1drv.ms/f/c/9b43ceb10aebca25/IgB9nv_iRDa-R4OjnSr7aqXPAYBGxQ9pR4X1ky9RmNhlVY0",
